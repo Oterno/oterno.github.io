@@ -1,1 +1,1 @@
-# oterno.github.io/index.html
+# oterno.github.io
